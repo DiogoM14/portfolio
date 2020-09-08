@@ -1,57 +1,57 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Diogo Martins",
+    "occupation": "ReactJS/React Native Developer && Student",
+    "description": "Full Stack React Developer, Freelancer.",
+    "image": "Diogo.jpeg",
+    "bio": "My name is Diogo, I'm a Full Stack ReactJS and React Native Developer. Currently I'm currently studying to be a Freelancer while also coaching ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "diogomartins200214@gmail.com",
+    "phone": "+351 933 162 251",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Portugal",
+      "city": "Porto ,",
+      "state": "Paços de Ferreira",
+      "zip": ""
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/diogo.xavier.904",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/diogo-martins-b79b55182/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/diogomartins.14/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/Xavi002",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Some of my skills:",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "school": "Porto University",
+        "degree": "Software Development Engineer",
+        "graduated": "Studying",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
+        "company": "Leica",
         "title": "Team Member && React Specialist",
         "years": "April 2020 - Present",
         "description": "Teaching ReactJS to thousands of students."
@@ -65,27 +65,27 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "React Native",
+        "level": "95%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "ReactJS",
+        "level": "90%"
       },
       {
         "name": "Git",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "Figma",
+        "level": "60%"
       },
       {
-        "name": "HTML5",
+        "name": "Firebase",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
+        "name": "Css",
         "level": "80%"
       }
     ]
@@ -93,34 +93,34 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Facebook Messenger Clone",
+        "category": "Facebook Messenger Clone built with Firebase, MaterialUI ReactJS",
+        "image": "messenger.png",
+        "url": "https://github.com/Xavi002/messenger-clone"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with Firebase, MaterialUI ReactJS",
+        "image": "amazon.png",
+        "url": "https://github.com/Xavi002/amazon-clone"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Proffy",
+        "category": "Study with a modern platform, you can be a teacher or student",
+        "image": "proffy.png",
+        "url": "https://github.com/Xavi002/Proffy-mobile"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "Github Explorer",
+        "category": "Explore Github repositories",
+        "image": "github.png",
+        "url": "https://github.com/Xavi002/GitHub-Explorer"
       },
       {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "XLight",
+        "category": "App to control your home lights",
+        "image": "xlight.png",
+        "url": "https://github.com/Xavi002/XLight"
       }
     ]
   },
